@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AVGH Movil</string>
+    <string name="textViewUsuario">Usuario:</string>
+    <string name="textViewContraseña">Contraseña</string>
+    <string name="buttonIngresar">Ingresar</string>
+    <string name="editTextUsuario">Ingrese Usuario</string>
+    <string name="editTextTextContraseña">Ingrese Contraseña</string>
+    <string name="imageViewLogo">Logo de la compania</string>
+    <string name="buttonRegistrarse">Registrarse</string>
 </resources>
